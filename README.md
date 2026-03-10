@@ -1,6 +1,6 @@
 # ⚡ Solar Panel Efficiency Prediction
 
-This project was developed for the **Zelestra X AWS ML Ascend Challenge (2nd Edition)**. The task was to predict solar panel efficiency using real-world sensor data such as temperature, irradiance, and voltage readings.
+This project was developed for the **Zelestra X AWS ML Ascend Challenge (2nd Edition)** as a group hackathon. The task was to predict solar panel efficiency using real-world sensor data such as temperature, irradiance, and voltage readings.
 
 ## 🧠 Problem Statement
 
